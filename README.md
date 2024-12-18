@@ -9,7 +9,7 @@ I've had an amount of time away from coding and intend on using Python for the m
 I'm going to see how many ⭐⭐ Stars ⭐⭐ I can gather!
 
 ### Full instructions to each puzzle:  
-[_Day 1_](https://adventofcode.com/2024/day/1)  
+[_Day 1_](https://adventofcode.com/2024/day/1) 🌟🌟      
 [_Day 2_](https://adventofcode.com/2024/day/2)  
 [_Day 3_](https://adventofcode.com/2024/day/3)  
 [_Day 4_](https://adventofcode.com/2024/day/4)  
